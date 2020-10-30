@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{index.html} 
+= Home
+
+~~~
+{}{img_left}{images/avatar.jpg}{Avatar}{120}{160px}
+
+*Yongchang Hao* \n
+*郝永昌*
+
+\"yongchanghao\#w\#\#gmail\#com\".replace(\"\#\#\", \"@\").replace(\"\#\", \".\")
+
+[https://github.com/yongchanghao GitHub] \n
+[https://www.linkedin.com/in/yongchang-hao/ Linkedin] \n
+[https://scholar.google.com/citations?user=sRqHvoYAAAAJ&hl=en&oi=ao Google Scholar] \n
+~~~
+
+== Research Interests
+- Machine Learning
+- Natual Language Processing
+
+== Education 
+- *M.Sc. Computing Science*, University of Alberta, 2021 -
+- *B.E. Computer Science and Technology*, Soochow University, 2016 - 2020
+
+== Internships
+- *Tencent AI Lab*, Shenzhen, Feb 2020 - Jun 2021 \n
+  Research Intern
+- *Google*, Shanghai, Jul 2019 - Oct 2019 \n
+  Software Engineer Intern
+
+== Selected Awards
+- *Gold Medal*, CCF-CCSP East China, 2019
+- *Silver Medal*, ACM-ICPC Asia East Continent Final, 2018
+- *Gold Medal*, ACM-ICPC Asia Regional, 2018
