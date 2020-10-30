@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{fun.html}
+= For Fun
+
+== Play with My Game AI
+
+~~~
+{}{raw}
+<a href=games/connect4/main.html>Connect4</a>
+~~~

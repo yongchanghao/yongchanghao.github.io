@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+    <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta http-equiv="Cache-control" content="no-cache" />
+    <meta http-equiv="Expires" content="-1">
+    <script>
+        window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+        ga('create', 'UA-191897386-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+    <!-- <link rel="stylesheet" href="../../jemdoc.css" type="text/css" /> -->
+    <style>
+        button:hover {
+            opacity: 1;
+        }
+
+        button {
+            background-color: transparent;
+            background-repeat: no-repeat;
+            border: none;
+            cursor: pointer;
+            overflow: hidden;
+            outline: none;
+            opacity: 0.2;
+            width: fit-content;
+            font-size: xx-large;
+            margin: 0px;
+            padding: 0px;
+        }
+
+        button[name="sel"] {
+            border: 1px solid black;
+            background-color: royalblue;
+            opacity: 1;
+            font-size: medium;
+            color: seashell;
+            border-radius: 5px;
+            padding: 3px;
+            margin: 3px;
+        }
+
+        td {
+            border: 1px solid black;
+            padding: 0px;
+            margin: 0px;
+            overflow: hidden;
+        }
+
+        td[name="control"] {
+            border: transparent;
+            padding: 0px;
+            margin: 0px;
+            overflow: hidden;
+        }
+    </style>
+    <title>Yongchang Hao (郝永昌) - Homepage</title>
+</head>
+
+<body>
+    <div><a href="../../fun.html">Go Back</a></div>
+    <div id="toptitle">
+
+        <div>
+            <h1>Connect 4</h1>
+            <p>You are playing with an agent using MCTS </p>
+            <p><input type="range" oninput="ajust()" min="0.1" max="5" step="0.1" value="1.5" class="slider" id="ranger"> Time budget: 1.5s</p>
+            <p><label id='switch-label' hidden="true"><input id='switch' type="checkbox" onchange="board.show()"><span style="color: red">Coaching Mode</span></label></p>
+        </div>
+        <div id='game'>
+            I would like to play as the
+            <p>
+                <button name='sel' onclick="document.getElementById('switch-label').hidden=false; board.show(); ">1st player</button>
+                <button name='sel'
+                    onclick="document.getElementById('switch-label').hidden=false;board.current_player ^= 1; computer_play(board).then(() => board.show());">2nd
+                    player</button>
+            </p>
+        </div>
+        <script src='main.js'></script>
+    </div>
+</body>
+
+</html>

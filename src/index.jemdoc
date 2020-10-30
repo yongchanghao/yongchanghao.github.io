@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{index.html} 
+= Home
+
+~~~
+{}{img_left}{images/avatar.jpg}{Avatar}{120}{160px}
+
+*Yongchang Hao* \n
+*郝永昌*
+
+yongchanghao DOT w AT gmail DOT com \n
+
+[https://github.com/yongchanghao GitHub] \n
+[https://www.linkedin.com/in/yongchang-hao/ Linkedin] \n
+[https://scholar.google.com/citations?user=sRqHvoYAAAAJ&hl=en&oi=ao Google Scholar] \n
+~~~
+
+== Research Interests
+- Machine Learning
+- Reinforcement Learning
+- Natural Language Processing
+
+== Education 
+- M.Sc. in Computing Science, University of Alberta, 2021 - 2023
+- B.E. in Computer Science and Technology, Soochow University, 2016 - 2020
+
+== Work Experiences
+- Research Intern \n
+  Tencent AI Lab, Shenzhen, Feb 2020 - Jun 2021
+- Software Engineer Intern \n
+ Google, Shanghai, Jul 2019 - Oct 2019
+
+== Teaching Experiences
+- Graduate Teaching Assistant, University of Alberta, 2021 - 
+-- \[CMPUT 463/563\] Probabilistic Graphical Models
+-- \[CMPUT 466/566\] Machine Learning
+-- [https://amw8.github.io/Intro2RL \[CMPUT 365\] Reinforcement Learning I (An Introduction)]
+
+== Selected Awards
+- Alberta Graduate Excellence Scholarship, 2022
+- Gold Medal, CCF-CCSP East China, 2019
+- Silver Medal, ACM-ICPC Asia East Continent Final, 2018
+- Gold Medal, ACM-ICPC Asia Regional, 2018
