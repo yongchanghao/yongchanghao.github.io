@@ -1,0 +1,41 @@
+title: Yongchang Hao
+description: This is a website of Yongchang Hao.
+remote_theme: just-the-docs/just-the-docs
+url: https://yongchanghao.github.io
+
+plugins:
+ - jekyll-remote-theme
+ - jekyll-seo-tag
+ - rake
+
+defaults:
+  - scope: {path: "docs/"}
+    values: {layout: default}
+
+ga_tracking: "G-7N15Q4N7DK"
+
+search_enabled: false
+
+aux_links:
+  "Google Scholar":
+    - "https://scholar.google.com/citations?user=sRqHvoYAAAAJ&hl=en&oi=ao"
+  "LinkedIn": 
+    - "https://www.linkedin.com/in/yongchang-hao/"
+  "GitHub":
+    - "https://github.com/yongchanghao"
+  "Twitter":
+    - "https://twitter.com/yongchanghao"
+
+nav_external_links:
+  - title: Almost Intelligence
+    url: https://yongchanghao.github.io/almost-intelligence
+    # hide_icon: true
+  # - title: Notes
+    # url: https://yongchanghao.github.io/almost-intelligence
+    # hide_icon: true
+  # - title: Blog 博客
+    # url: https://yongchanghao.github.io/waterfall
+    # hide_icon: true
+
+last_edit_timestamp: true
+last_edit_time_format: "%Y-%m-%d"

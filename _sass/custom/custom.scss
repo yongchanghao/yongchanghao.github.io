@@ -1,0 +1,16 @@
+
+body {
+    font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+a {
+    color: #2576af !important;
+}
+
+svg {
+    color: #2576af !important;
+}
+
+.site-title {
+    @media (min-width: 31.25rem) {font-size: 22px !important;}
+}
