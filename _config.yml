@@ -28,14 +28,7 @@ aux_links:
 
 nav_external_links:
   - title: Almost Intelligence
-    url: https://yongchanghao.github.io/almost-intelligence
-    # hide_icon: true
-  # - title: Notes
-    # url: https://yongchanghao.github.io/almost-intelligence
-    # hide_icon: true
-  # - title: Blog 博客
-    # url: https://yongchanghao.github.io/waterfall
-    # hide_icon: true
+    url: https://www.almost-intelligence.com
 
 last_edit_timestamp: true
 last_edit_time_format: "%Y-%m-%d"
