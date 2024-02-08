@@ -2,10 +2,18 @@
 title: Publications
 permalink: pubs
 nav_order: 1
-last_modified_date: "2023-01-31"
+last_modified_date: "2024-02-08"
 ---
 
 # Publications 
+
+## Preprints
+- [Flora: Low-Rank Adapters Are Secretly Gradient Compressors](https://arxiv.org/abs/2402.03293) \
+  <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
+  *ar$\chi$iv 2024*
+- [Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks](https://arxiv.org/abs/2402.03295) \
+  <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
+  *ar$\chi$iv 2024*
 
 ## Conference Publications
 - [An Equal-Size Hard EM Algorithm for Diverse Dialogue Generation](https://arxiv.org/abs/2209.14627) \
@@ -21,4 +29,7 @@ last_modified_date: "2023-01-31"
   <span style="text-decoration: underline">Yongchang Hao</span>\*, Shilin He\*, Wenxiang Jiao, Zhaopeng Tu, Michael Lyu, Xing Wang \
   *NAACL 2021*
 
-<!-- ## Preprints -->
+## Theses
+- [Discovering Reward Functions for Language Models](https://era.library.ualberta.ca/items/8ccbb37b-0b6d-4a1a-bc97-269667cdf029) \
+  <span style="text-decoration: underline">Yongchang Hao</span> \
+  *M.Sc. Thesis, University of Alberta, 2023*
