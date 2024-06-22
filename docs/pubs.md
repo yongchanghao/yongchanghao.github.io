@@ -2,20 +2,18 @@
 title: Publications
 permalink: pubs
 nav_order: 1
-last_modified_date: "2024-02-08"
+last_modified_date: "2024-06-22"
 ---
 
 # Publications 
 
-## Preprints
+## Conference Publications
 - [Flora: Low-Rank Adapters Are Secretly Gradient Compressors](https://arxiv.org/abs/2402.03293) \
   <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
-  *ar$\chi$iv 2024*
-- [Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks](https://arxiv.org/abs/2402.03295) \
-  <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
-  *ar$\chi$iv 2024*
-
-## Conference Publications
+  *ICML 2024*
+- [LLMR: Knowledge Distillation with a Large Language Model-Induced Reward](https://aclanthology.org/2024.lrec-main.932) \
+  Dongheng Li, <span style="text-decoration: underline">Yongchang Hao</span>, Lili Mou \
+  *Coling 2024*
 - [An Equal-Size Hard EM Algorithm for Diverse Dialogue Generation](https://arxiv.org/abs/2209.14627) \
   Yuqiao Wen, <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
   *ICLR 2023*
@@ -28,6 +26,11 @@ last_modified_date: "2024-02-08"
 - [Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation](https://arxiv.org/abs/2010.12868) \
   <span style="text-decoration: underline">Yongchang Hao</span>\*, Shilin He\*, Wenxiang Jiao, Zhaopeng Tu, Michael Lyu, Xing Wang \
   *NAACL 2021*
+
+## Preprints
+- [Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks](https://arxiv.org/abs/2402.03295) \
+  <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
+  *ar$\chi$iv 2024*
 
 ## Theses
 - [Discovering Reward Functions for Language Models](https://era.library.ualberta.ca/items/8ccbb37b-0b6d-4a1a-bc97-269667cdf029) \

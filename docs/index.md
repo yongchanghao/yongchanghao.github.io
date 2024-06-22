@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 nav_order: 0
-last_modified_date: "2024-02-08"
+last_modified_date: "2024-06-22"
 ---
 
 ![Avatar of Yongchang](/assets/avatar.webp){: width="96" height="128" .float-right .mx-4} 
@@ -19,6 +19,8 @@ last_modified_date: "2024-02-08"
 - *B.E. in Computer Science and Technology*, **Soochow University**, 2016 - 2020
 
 ## Internships
+- *Machine Learning Research Intern*, **Borealis AI** \
+  Vancouver, May 2024 - Sep 2024
 - *Research Intern*, **Tencent AI Lab** \
   Shenzhen, Feb 2020 - Jun 2021
 - *Software Engineer Intern*, **Google** \
