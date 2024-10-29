@@ -2,7 +2,7 @@
 title: Publications
 permalink: pubs
 nav_order: 1
-last_modified_date: "2024-06-22"
+last_modified_date: "2024-10-22"
 ---
 
 # Publications 
@@ -28,6 +28,9 @@ last_modified_date: "2024-06-22"
   *NAACL 2021*
 
 ## Preprints
+- [NeuZip: Memory-Efficient Training and Inference with Dynamic Compression of Neural Networks](https://arxiv.org/abs/2410.20650) \
+  <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
+  *ar$\chi$iv 2024*
 - [Ginger: An Efficient Curvature Approximation with Linear Complexity for General Neural Networks](https://arxiv.org/abs/2402.03295) \
   <span style="text-decoration: underline">Yongchang Hao</span>, Yanshuai Cao, Lili Mou \
   *ar$\chi$iv 2024*
