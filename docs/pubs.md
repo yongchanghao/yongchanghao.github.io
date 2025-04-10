@@ -10,7 +10,7 @@ last_modified_date: "2025-04-09"
 ## Peer-Reviewed Papers
 - [Radar: Fast Long-Context Decoding for Any Transformer](https://arxiv.org/abs/2503.10571) \
   <span style="text-decoration: underline">Yongchang Hao</span>, Mengyao Zhai, Hossein Hajimirsadeghi, Sepidehsadat Hosseini, Frederick Tung \
-  ICLR 2025, Singapore
+  *ICLR 2025, Singapore*
 - [Exploiting the Index Gradients for Optimization-Based Jailbreaking on Large Language Models](https://arxiv.org/abs/2412.08615)
   Jiahui Li\*, <span style="text-decoration: underline">Yongchang Hao</span>\*, Haoyu Xu, Xing Wang, Yu Hong \
   *COLING 2025, Dubai, U.A.E.*
