@@ -3,7 +3,7 @@ layout: default
 title: Home
 permalink: /
 nav_order: 0
-last_modified_date: "2024-06-22"
+last_modified_date: "2025-04-09"
 ---
 
 ![Avatar of Yongchang](/assets/avatar.webp){: width="96" height="128" .float-right .mx-4} 
@@ -19,6 +19,8 @@ last_modified_date: "2024-06-22"
 - *B.E. in Computer Science and Technology*, **Soochow University**, 2016 - 2020
 
 ## Internships
+- *Machine Learning Research Intern*, **Netflix** \
+  Los Gatos, Mar 2025 - Jun 2025
 - *Machine Learning Research Intern*, **Borealis AI** \
   Vancouver, May 2024 - Sep 2024
 - *Research Intern*, **Tencent AI Lab** \
@@ -40,7 +42,7 @@ last_modified_date: "2024-06-22"
 
 ## Selected Awards
 - *Jeffrey R Sampson Memorial Graduate Prize*, 2023
-- *Alberta Graduate Excellence Scholarship*, 2022
+- *Alberta Graduate Excellence Scholarship*, 2022, 2024
 - *Mary Louise Imrie Graduate Student Award*, 2022
 - *Gold Medal*, CCF-CCSP East China, 2019
 - *Silver Medal*, ACM-ICPC Asia East Continent Final, 2018
