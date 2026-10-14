@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 104" width="64" height="104" fill="none">
+
+  <!-- Top mark: vertically compressed, ring thinner at top/bottom -->
+  <g transform="translate(2 0) scale(1 0.85)">
+    <path fill-rule="evenodd" d="M29 3 C 42 2, 54 8, 58 18 C 63 31, 60 44, 51 53 C 41 62, 26 62, 16 57 C 5 49, 1 35, 4 24 C 8 12, 19 4, 29 3 Z M29 5 C 41 4, 53 10, 56 21 C 56 32, 53 44, 46 53 C 36 60, 25 60, 17 54 C 9 47, 5 32, 8 24 C 12 13, 20 8, 29 5 Z" fill="#9b7740"></path>
+
+    <path d="M28 23 C 33 21, 37 24, 38 28 C 39 33, 36 38, 32 40 C 27 40, 23 36, 24 31 C 25 26, 26 23, 28 23 Z" fill="#9b7740"></path>
+
+    <path d="M40.5 17.8 L 43.4 14.6" stroke="#9b7740" stroke-width="1.8" stroke-linecap="round" fill="none" opacity="0.55"></path>
+    <path d="M22.0 16.0 L 18.9 12.4" stroke="#9b7740" stroke-width="2.0" stroke-linecap="round" fill="none" opacity="0.5"></path>
+    <path d="M14.2 32.6 L 10.0 33.4" stroke="#9b7740" stroke-width="1.7" stroke-linecap="round" fill="none" opacity="0.55"></path>
+    <path d="M28.0 48.4 L 27.4 50.7" stroke="#9b7740" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.4"></path>
+    <path d="M44.7 39.4 L 50.0 42.0" stroke="#9b7740" stroke-width="2.0" stroke-linecap="round" fill="none" opacity="0.6"></path>
+  </g>
+
+  <!-- Bottom mark: same template, slightly different ring & dot, with tiny gap above -->
+  <g transform="translate(2 51) scale(1 0.85)">
+    <path fill-rule="evenodd" d="M29 3 C 42 2, 54 8, 58 18 C 63 31, 60 44, 51 53 C 41 62, 26 62, 16 57 C 5 49, 1 35, 4 24 C 8 12, 19 4, 29 3 Z M29 5 C 41 4, 53 10, 56 21 C 56 32, 53 44, 46 53 C 36 60, 25 60, 17 54 C 9 47, 5 32, 8 24 C 12 13, 20 8, 29 5 Z" fill="#9b7740"></path>
+
+    <path d="M34 23 C 39 26, 40 31, 38 35 C 36 39, 30 41, 26 38 C 22 36, 22 31, 26 27 C 29 24, 32 22, 34 23 Z" fill="#9b7740"></path>
+
+    <path d="M42.9 24.6 L 45.4 23.0" stroke="#9b7740" stroke-width="1.8" stroke-linecap="round" fill="none" opacity="0.55"></path>
+    <path d="M29.5 17.6 L 29.0 13.1" stroke="#9b7740" stroke-width="2.0" stroke-linecap="round" fill="none" opacity="0.6"></path>
+    <path d="M18.1 30.6 L 13.1 30.1" stroke="#9b7740" stroke-width="2.0" stroke-linecap="round" fill="none" opacity="0.55"></path>
+    <path d="M25.5 43.8 L 24.7 45.6" stroke="#9b7740" stroke-width="1.6" stroke-linecap="round" fill="none" opacity="0.45"></path>
+    <path d="M41.8 42.4 L 44.7 45.2" stroke="#9b7740" stroke-width="1.8" stroke-linecap="round" fill="none" opacity="0.5"></path>
+  </g>
+</svg>
